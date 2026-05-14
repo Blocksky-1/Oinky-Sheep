@@ -2,7 +2,7 @@
 %TAG !u! tag:unity3d.com,2011:
 --- !u!78 &1
 TagManager:
-  serializedVersion: 2
+  serializedVersion: 3
   tags: []
   layers:
   - Default
@@ -38,6 +38,17 @@ TagManager:
   - 
   - 
   m_SortingLayers:
+  - name: Fondo
+    uniqueID: 1736291217
+    locked: 0
   - name: Default
     uniqueID: 0
     locked: 0
+  - name: Overlay
+    uniqueID: 2603651599
+    locked: 0
+  - name: UI
+    uniqueID: 758580287
+    locked: 0
+  m_RenderingLayers:
+  - Default
