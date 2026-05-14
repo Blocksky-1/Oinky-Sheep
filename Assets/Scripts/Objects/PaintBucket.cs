@@ -17,7 +17,7 @@ public class PaintBucket : MonoBehaviour
         if (disguiseSystem != null)
         {
             disguiseSystem.RefillPaint(refillAmount);
-            Debug.Log("¡Pintura recargada desde la cubeta!");
+            //Debug.Log("Paint Refill");
 
             if (destroyOnUse)
             {
